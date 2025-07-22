@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Start Guide"
 description: "How to setup and use this blog theme"
-date: 2025-07-22
+date: 2025-07-21
 tags: jekyll
 comments: true
 ---

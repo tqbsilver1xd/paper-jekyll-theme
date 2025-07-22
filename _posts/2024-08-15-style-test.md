@@ -3,7 +3,7 @@ layout: post
 title: "A Full and Comprehensive Style Test"
 description: "Test post for style"
 date: 2024-08-15
-tags: test, style
+tags: [test, style]
 comments: true
 ---
 
@@ -23,7 +23,7 @@ Below is just about everything you'll need to style in the theme. Check the [sou
 
 ##### Header 5
 
-###### Header 6
+###### Header 6  (more #, lower category)
 
 ### 1-1. Header Alignment 
 

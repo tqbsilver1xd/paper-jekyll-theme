@@ -3,7 +3,7 @@ layout: post
 title: "Let's upoload the image!"
 description: "Test post for image uploading"
 date: 2025-07-22
-tags: test, style
+tags: [test, style]
 comments: true
 ---
 
@@ -20,7 +20,7 @@ Let's work !
 
 This is how to upload the image from the internet!
 
-![test_kitten](/assets/images/test_kitten.jpeg)
+![test_kitten](https://junhee-lee233.github.io/paper-jekyll-theme/assets/images/test_kitten.jpeg)
 
-This is how to upload from your assets
+This is how to upload from your assets (your local image)
 
