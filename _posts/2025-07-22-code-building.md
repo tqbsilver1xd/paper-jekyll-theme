@@ -31,6 +31,12 @@ age = 21
 is_student = True
 
 print(f"My name is {name}, I am {age} years old.")
+
+name2 = "Quoc Bao"
+age2 = 19
+is_student2 = True
+
+printf(f"My name is {name2}, I am {age2} years old.")
 ~~~
 
 In this example:
